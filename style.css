@@ -9,6 +9,7 @@
     position: static;
     top: 0;
     z-index: 10;
+
 }
 .navbar-brand{
     height: 40px;
@@ -75,4 +76,16 @@
 .progress{
     border-radius: 16px imp !important;
     margin-bottom: 20px;
+}
+
+/***---------------Footer ****/
+.footer{
+    text-align: center;
+    margin-top: 580px;
+    background-color: black;
+}
+.footer h3{
+    color: #fff;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
